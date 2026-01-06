@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Fed signals possible rate cut as inflation cools",
+    "summary": "Policy makers noted easing inflation and potential rate cuts later this year.",
+    "url": "https://example.com/demo/fed-rate-cut",
+    "published_at": "2024-01-05T12:00:00Z",
+    "content": "Federal Reserve officials discussed a possible rate cut as inflation data cools and risk-off sentiment rises.",
+    "fetched_at": "2024-01-05T12:00:00Z"
+  },
+  {
+    "title": "Geopolitical tensions lift gold demand",
+    "summary": "Safe-haven flows push gold higher amid conflict concerns.",
+    "url": "https://example.com/demo/gold-safe-haven",
+    "published_at": "2024-01-05T12:05:00Z",
+    "content": "Investors turn to safe-haven assets as geopolitical conflict escalates, boosting gold prices.",
+    "fetched_at": "2024-01-05T12:05:00Z"
+  }
+]
